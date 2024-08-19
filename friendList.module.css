@@ -1,0 +1,7 @@
+.friendContainer {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
